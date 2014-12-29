@@ -1,0 +1,6 @@
+Tatoeba.org allows it's data to be used with attribution, under the Creative Commons Attribution License 2.0
+For details, see http://creativecommons.org/licenses/by/2.0/
+The data used in Tatoeba Groupie is not modified in any way.
+Tatoeba Groupie is not directly affliated with Tateoba.org
+For extended info, see the file "Terms of use - Tatoeba.html"
+All remaining parts of Tatoeba Groupie are released into the public domain.
