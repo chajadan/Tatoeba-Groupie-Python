@@ -19,6 +19,6 @@ pip install -U --pre -f http://wxpython.org/Phoenix/snapshot-builds/ wxPython_Ph
 
 If pip doesn't work, try pip3 and/or pip3.3.
 
-- Download all of the Tatoeba Groupie files into a folder on your system, and run the file named tgui.py from python using the command line. The command "python tgui.py" and must be run from the folder containing tgui.py, or you can give a full path to the file such as "python c:\TatoebaGroupie\tgui.py".
+- Download all of the Tatoeba Groupie files into a folder on your system, and run the file named tgui.py from python using the command line. The command "python tgui.py" must be run from the folder containing tgui.py, or you can give a full path to the file such as "python c:\TatoebaGroupie\tgui.py".
 
 If it works you're good. If not, keep your eyes open for a Java version of Tatoeba Groupie.
