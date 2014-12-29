@@ -13,7 +13,9 @@ This version of Tatoeba Groupie is written in python (version 3.3), using a snap
 
 - Then use pip (from the command line) to install a wxPython Phoenix snapshot. Pip will be in the scripts folder of your python installation (or it may already be on your path). Run the following command:
 
+```
 pip install -U --pre -f http://wxpython.org/Phoenix/snapshot-builds/ wxPython_Phoenix
+```
 
 If pip doesn't work, try pip3 and/or pip3.3.
 
