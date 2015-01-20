@@ -17,9 +17,9 @@ This version of Tatoeba Groupie is written in python (version 3.3), using a snap
 pip install -U --pre -f http://wxpython.org/Phoenix/snapshot-builds/ wxPython_Phoenix
 ```
 
-If pip doesn't work, try pip3 and/or pip3.3.
+If pip doesn't work, try pip3 and/or pip3.3, or similar.
 
-- Download a [release version](https://github.com/chajadan/Tatoeba-Groupie-Python/releases) of Tatoeba Groupie (which comes with a few additional files not in the repository) and run the file named tgui.py from python using the command line. The command "python tgui.py" must be run from the folder containing tgui.py, or you can give a full path to the file such as "python c:\TatoebaGroupie\tgui.py".
+- Download a [release version](https://github.com/chajadan/Tatoeba-Groupie-Python/releases) of Tatoeba Groupie (both the Source code and the releaseOnlyFiles.zip), extract all files into a single folder, and run the file named tgui.py from python using the command line. The command "python tgui.py" must be run from the folder containing tgui.py, or you can give a full path to the file such as "python c:\TatoebaGroupie\tgui.py".
 
 If it works you're good. If not, keep your eyes open for other versions of Tatoeba Groupie in the future, or look for help.
 
